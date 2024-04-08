@@ -1,0 +1,9 @@
+- Hibakezelések (<quake-if/>, <quake-each/>)
+- Eventek és outputok regisztrálása
+- <quake-each/> nem értelmezi se az $as, se az $each, se a $key propertiket
+- Quake dom kirajzolása, frissítés
+- Befejezni az alkalmazás inicializálást
+- Css beállítások megadása
+- Lib api
+- Globális eventek/signalok
+- Rust
